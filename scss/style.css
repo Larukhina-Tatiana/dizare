@@ -303,4 +303,13 @@ button {
 }
 .rightside-menu__img {
   max-width: 485px;
+}
+
+.top__slider-title {
+  margin-bottom: 53px;
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-size: 110px;
+  line-height: 1.2181818182;
+  color: var(--title);
 }/*# sourceMappingURL=style.css.map */
